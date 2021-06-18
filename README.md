@@ -1,5 +1,8 @@
 # dynamic_wireframe
 
+## Explanation is here: 
+https://medium.com/nullifying-the-null/dynamic-wireframe-vue-js-vuetify-32b67ed24bb5
+
 ## Project setup
 ```
 npm install
